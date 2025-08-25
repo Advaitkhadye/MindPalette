@@ -19,7 +19,7 @@ Whether you want a cyberpunk city, a fantasy sketch, or a realistic oil painting
 ---
 ## To execute The Project
 
-### 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/Advaitkhadye/MindPalette.git
 cd MindPalette
 
