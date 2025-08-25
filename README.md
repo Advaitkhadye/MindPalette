@@ -17,3 +17,19 @@ Whether you want a cyberpunk city, a fantasy sketch, or a realistic oil painting
 - **Gallery & Downloads** – View your generated images and download them individually or as a ZIP.  
 
 ---
+## To execute The Project
+
+### 1. Clone the repository
+git clone https://github.com/Advaitkhadye/MindPalette.git
+cd MindPalette
+
+2. Install dependencies
+pip install -r requirements.txt
+
+4. Add your API key
+Create a .env file in the project root:
+.env
+STABILITY_API_KEY=your_api_key_here
+
+4. Run the app
+py -m streamlit run app.py
