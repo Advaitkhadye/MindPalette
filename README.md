@@ -19,22 +19,17 @@ Whether you want a cyberpunk city, a fantasy sketch, or a realistic oil painting
 ---
 ## To execute The Project
 
-1. Clone the repository:
-git clone https://github.com/Advaitkhadye/MindPalette.git
-
+1. Clone the repository:<br>
+git clone https://github.com/Advaitkhadye/MindPalette.git<br>
 cd MindPalette
 
-3. Install dependencies:
-   
+2. Install dependencies:<br>
 pip install -r requirements.txt
 
-5. Add your API key:
-
-Create a .env file in the project root:
-.env
-
+3. Add your API key:<br>
+Create a .env file in the project root:<br>
+.env<br>
 STABILITY_API_KEY=your_api_key_here
 
-4. Run the app:
-   
+4. Run the app:<br>
 py -m streamlit run app.py
