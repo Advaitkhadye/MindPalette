@@ -1,4 +1,3 @@
 streamlit
-st-clerk
 requests
 Pillow
