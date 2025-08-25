@@ -1,4 +1,4 @@
-"# MindPalette" 
+# MindPalette
 
 MindPalette is an AI-powered image generator built with **Streamlit** and **Stability AI**.  
 It lets you turn your ideas into creative artwork with just a few words.  
