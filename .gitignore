@@ -1,0 +1,15 @@
+# Ignore environment and secret files
+api.txt
+
+# Python cache
+__pycache__/
+
+# Generated images
+generated_images/
+
+# Environment variables
+.env
+
+# OS/Editor files
+*.DS_Store
+.vscode/
